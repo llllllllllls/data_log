@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "2025-12-5"
             }
-          },
-          {
-            "id": "f0df995d91a98e40",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "copilot"
-              },
-              "icon": "lucide-file",
-              "title": "copilot"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             }
           },
           {
-            "id": "38eaecc014190ef8",
+            "id": "4fcf4d0eed750004",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -228,6 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "日志/2025-12-5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "2025-12-5 的关系图"
             }
           }
         ]
@@ -276,8 +265,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0df995d91a98e40",
+  "active": "dde607f03c60eaad",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/希腊字母怎么拼@20251205_032424.md",
     "日志/2025-12-5.md",
     "日志/2025-09-15.md",
     "日志/2025-09-20.md",
@@ -314,7 +304,6 @@
     "工业互联网 - 副本/计算机-计算机网络结构.md",
     "工业互联网 - 副本/第四章 计算机局域网络.md",
     "工业互联网 - 副本/第二章 数据通信基础.md",
-    "工业互联网 - 副本/第三章 计算机网络体系结构.md",
     "工业互联网 - 副本",
     "日志/未命名 1.base",
     "日志/未命名.base",
