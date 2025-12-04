@@ -36,29 +36,29 @@
             }
           },
           {
-            "id": "1ea3b6e57df52c43",
+            "id": "dde607f03c60eaad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工业互联网/第二章 数据通信基础.md",
+                "file": "日志/2025-12-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二章 数据通信基础"
+              "title": "2025-12-5"
             }
           },
           {
-            "id": "dde607f03c60eaad",
+            "id": "f0df995d91a98e40",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "mk-space",
               "state": {
-                "file": "Pasted image 20251023031956.png"
+                "path": "copilot"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251023031956"
+              "icon": "lucide-file",
+              "title": "copilot"
             }
           }
         ],
@@ -114,8 +114,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "38eaecc014190ef8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -128,6 +139,7 @@
       {
         "id": "9e1d1f6ba4181406",
         "type": "tabs",
+        "dimension": 74.01315789473685,
         "children": [
           {
             "id": "4ff15718c6381b69",
@@ -208,6 +220,7 @@
       {
         "id": "c490b722f4883a28",
         "type": "tabs",
+        "dimension": 25.986842105263158,
         "children": [
           {
             "id": "0125720c06d33c9d",
@@ -215,7 +228,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pasted image 20251023031956.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Pasted image 20251023031956 的关系图"
+              "title": "关系图谱"
             }
           }
         ]
@@ -264,49 +276,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98028b7177568c63",
+  "active": "f0df995d91a98e40",
   "lastOpenFiles": [
-    "Pasted image 20251022152403.png",
-    "Pasted image 20251022012853.png",
-    "Pasted image 20251022003741.png",
-    "未命名 1.base",
-    "未命名.base",
-    "工业互联网/第四章 计算机局域网络.md",
-    "工业互联网/第一章 引论.md",
-    "工业互联网/单计算机为中心的多终端联机系统.md",
-    "工业互联网/第三章 计算机网络体系结构.md",
-    "工业互联网/第二章 数据通信基础.md",
-    "工业互联网/体系结构标准化网络.md",
-    "工业互联网/计算机-计算机网络结构.md",
-    "工业互联网/Internet时代.md",
-    "Pasted image 20251031102301.png",
-    "Pasted image 20251031102253.png",
-    "Pasted image 20251031101405.png",
-    "Pasted image 20251031000925.png",
-    "Pasted image 20251030233621.png",
-    "Pasted image 20251030232557.png",
-    "Pasted image 20251030232507.png",
-    "Pasted image 20251024153816.png",
-    "工业互联网/Djikstra算法.md",
-    "工业互联网/虚电路服务.md",
-    "工业互联网/数据报.md",
-    "工业互联网/异步制与同步制.md",
-    "工业互联网/第七章 因特网基础.md",
-    "工业互联网/通信子网.md",
-    "工业互联网/资源子网.md",
-    "工业互联网/曼彻斯特编码.md",
-    "未命名.canvas",
-    "工业互联网/网络分层思想.md",
-    "工业互联网/计算机网络的概念.md",
-    "工业互联网/计算机网络的产生与发展.md",
-    "2025-09-21.md",
-    "创建链接.md",
-    "未命名",
-    "工业互联网",
+    "日志/2025-12-5.md",
     "日志/2025-09-15.md",
     "日志/2025-09-20.md",
-    "日志/2025-09-12.md",
-    "未命名 1.md",
-    "日志"
+    "Pasted image 20251023031956 - 副本 - 副本.png",
+    "Pasted image 20251022011320 - 副本 - 副本.png",
+    "Pasted image 20251022152403 - 副本 - 副本.png",
+    "Pasted image 20251022012853 - 副本 - 副本.png",
+    "Pasted image 20251022003741 - 副本 - 副本.png",
+    "工业互联网 - 副本 - 副本/通信子网.md",
+    "工业互联网 - 副本 - 副本/资源子网.md",
+    "工业互联网 - 副本 - 副本/计算机-计算机网络结构.md",
+    "工业互联网 - 副本 - 副本/虚电路服务.md",
+    "工业互联网 - 副本 - 副本/第四章 计算机局域网络.md",
+    "工业互联网 - 副本 - 副本/第二章 数据通信基础.md",
+    "工业互联网 - 副本 - 副本/第三章 计算机网络体系结构.md",
+    "工业互联网 - 副本 - 副本/第七章 因特网基础.md",
+    "工业互联网 - 副本 - 副本/第一章 引论.md",
+    "工业互联网 - 副本 - 副本/曼彻斯特编码.md",
+    "工业互联网 - 副本 - 副本/数据报.md",
+    "工业互联网 - 副本 - 副本/异步制与同步制.md",
+    "工业互联网 - 副本 - 副本/单计算机为中心的多终端联机系统.md",
+    "工业互联网 - 副本 - 副本/体系结构标准化网络.md",
+    "工业互联网 - 副本 - 副本/Internet时代.md",
+    "工业互联网 - 副本 - 副本/Djikstra算法.md",
+    "工业互联网 - 副本 - 副本",
+    "Pasted image 20251023161439 - 副本 - 副本.png",
+    "Pasted image 20251024031508 - 副本.png",
+    "Pasted image 20251023031956 - 副本.png",
+    "Pasted image 20251022152403 - 副本.png",
+    "Pasted image 20251022012853 - 副本.png",
+    "工业互联网 - 副本/通信子网.md",
+    "工业互联网 - 副本/资源子网.md",
+    "工业互联网 - 副本/虚电路服务.md",
+    "工业互联网 - 副本/计算机-计算机网络结构.md",
+    "工业互联网 - 副本/第四章 计算机局域网络.md",
+    "工业互联网 - 副本/第二章 数据通信基础.md",
+    "工业互联网 - 副本/第三章 计算机网络体系结构.md",
+    "工业互联网 - 副本",
+    "日志/未命名 1.base",
+    "日志/未命名.base",
+    "Tags",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名.canvas"
   ]
 }
