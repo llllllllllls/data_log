@@ -1,0 +1,312 @@
+{
+  "main": {
+    "id": "8a4b599b11fb09fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e939017e0b18f8ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce54e2a056052b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工业互联网/虚电路服务.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "虚电路服务"
+            }
+          },
+          {
+            "id": "6f03d93532f9f851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工业互联网/第一章 引论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章 引论"
+            }
+          },
+          {
+            "id": "1ea3b6e57df52c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工业互联网/第二章 数据通信基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二章 数据通信基础"
+            }
+          },
+          {
+            "id": "dde607f03c60eaad",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251023031956.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251023031956"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c057592dc35ed1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7c612e4e2a9651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c783bf4684687590",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9850b98a46324e46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "68a8e019f8f0993d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9ab1cefdbcfe1453",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e1d1f6ba4181406",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff15718c6381b69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工业互联网/第一章 引论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第一章 引论 的反向链接列表"
+            }
+          },
+          {
+            "id": "2f438fb62b495482",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "工业互联网/第二章 数据通信基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第二章 数据通信基础 的出链列表"
+            }
+          },
+          {
+            "id": "0e34ab637ace60a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7077cb688118e9d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工业互联网/第一章 引论.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第一章 引论 的大纲"
+            }
+          },
+          {
+            "id": "98028b7177568c63",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "c490b722f4883a28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0125720c06d33c9d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Pasted image 20251023031956.png",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224418,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Pasted image 20251023031956 的关系图"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "98028b7177568c63",
+  "lastOpenFiles": [
+    "Pasted image 20251022152403.png",
+    "Pasted image 20251022012853.png",
+    "Pasted image 20251022003741.png",
+    "未命名 1.base",
+    "未命名.base",
+    "工业互联网/第四章 计算机局域网络.md",
+    "工业互联网/第一章 引论.md",
+    "工业互联网/单计算机为中心的多终端联机系统.md",
+    "工业互联网/第三章 计算机网络体系结构.md",
+    "工业互联网/第二章 数据通信基础.md",
+    "工业互联网/体系结构标准化网络.md",
+    "工业互联网/计算机-计算机网络结构.md",
+    "工业互联网/Internet时代.md",
+    "Pasted image 20251031102301.png",
+    "Pasted image 20251031102253.png",
+    "Pasted image 20251031101405.png",
+    "Pasted image 20251031000925.png",
+    "Pasted image 20251030233621.png",
+    "Pasted image 20251030232557.png",
+    "Pasted image 20251030232507.png",
+    "Pasted image 20251024153816.png",
+    "工业互联网/Djikstra算法.md",
+    "工业互联网/虚电路服务.md",
+    "工业互联网/数据报.md",
+    "工业互联网/异步制与同步制.md",
+    "工业互联网/第七章 因特网基础.md",
+    "工业互联网/通信子网.md",
+    "工业互联网/资源子网.md",
+    "工业互联网/曼彻斯特编码.md",
+    "未命名.canvas",
+    "工业互联网/网络分层思想.md",
+    "工业互联网/计算机网络的概念.md",
+    "工业互联网/计算机网络的产生与发展.md",
+    "2025-09-21.md",
+    "创建链接.md",
+    "未命名",
+    "工业互联网",
+    "日志/2025-09-15.md",
+    "日志/2025-09-20.md",
+    "日志/2025-09-12.md",
+    "未命名 1.md",
+    "日志"
+  ]
+}
