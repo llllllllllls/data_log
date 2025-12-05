@@ -39,9 +39,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//copilot",
-    "/",
     "//日志",
-    "//Tags"
+    "//Tags",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
